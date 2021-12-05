@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="FlinkAutomationSuite" duration-ms="28582" started-at="2021-12-06T02:08:09 IST" finished-at="2021-12-06T02:08:37 IST">
+    <groups>
+    </groups>
+    <test name="FlinkTestCases" duration-ms="28582" started-at="2021-12-06T02:08:09 IST" finished-at="2021-12-06T02:08:37 IST">
+      <class name="weatherShopperTest.AssignmentTC2">
+        <test-method status="PASS" signature="verifyWeatherShopperEndToEnd_T2(java.lang.String)[pri:0, instance:weatherShopperTest.AssignmentTC2@31fa1761]" name="verifyWeatherShopperEndToEnd_T2" duration-ms="28557" started-at="2021-12-06T02:08:09 IST" finished-at="2021-12-06T02:08:37 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWeatherShopperEndToEnd_T2 -->
+      </class> <!-- weatherShopperTest.AssignmentTC2 -->
+      <class name="weatherShopperTest.AssignmentTC1">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:weatherShopperTest.AssignmentTC1@4803b726]" name="startTest" is-config="true" duration-ms="225" started-at="2021-12-06T02:08:09 IST" finished-at="2021-12-06T02:08:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="verifyWeatherShopperEndToEnd_T1(java.lang.String)[pri:0, instance:weatherShopperTest.AssignmentTC1@4803b726]" name="verifyWeatherShopperEndToEnd_T1" duration-ms="27561" started-at="2021-12-06T02:08:09 IST" finished-at="2021-12-06T02:08:36 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWeatherShopperEndToEnd_T1 -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:weatherShopperTest.AssignmentTC1@4803b726]" name="endTest" is-config="true" duration-ms="354" started-at="2021-12-06T02:08:37 IST" finished-at="2021-12-06T02:08:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- weatherShopperTest.AssignmentTC1 -->
+    </test> <!-- FlinkTestCases -->
+  </suite> <!-- FlinkAutomationSuite -->
+</testng-results>

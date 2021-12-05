@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [HappenSuite]">
+  <listeners>
+    <listener class-name="weatherShopperUtil.ExtentReporterNG"/>
+  </listeners>
+  <test thread-count="5" name="FlinkTestCases(failed)">
+    <classes>
+      <class name="weatherShopperTest.AssignmentTC1">
+        <methods>
+          <include name="endTest"/>
+          <include name="startTest"/>
+          <include name="verify11"/>
+        </methods>
+      </class> <!-- weatherShopperTest.AssignmentTC1 -->
+    </classes>
+  </test> <!-- FlinkTestCases(failed) -->
+</suite> <!-- Failed suite [HappenSuite] -->

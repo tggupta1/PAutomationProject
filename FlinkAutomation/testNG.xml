@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FlinkAutomationSuite">
+	<listeners>
+		<listener class-name="weatherShopperUtil.ExtentReporterNG" />
+	</listeners>
+
+	<test name="FlinkTestCases" parallel="classes" thread-count="2">
+		<parameter name="Browser" value="Chrome" />
+		<classes>
+			<class name="weatherShopperTest.AssignmentTC1" />
+			<class name="weatherShopperTest.AssignmentTC2" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->  

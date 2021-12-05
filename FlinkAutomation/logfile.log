@@ -1,0 +1,22 @@
+2021-12-06 02:08:18,999 INFO  [Log] URL opened successfully 
+2021-12-06 02:08:19,073 INFO  [Log] Current Temperature is 4 
+2021-12-06 02:08:19,073 INFO  [Log] URL opened successfully 
+2021-12-06 02:08:19,112 INFO  [Log] Current Temperature is 45 
+2021-12-06 02:08:21,206 INFO  [Log] Total products displaying on Page are 6 
+2021-12-06 02:08:21,420 INFO  [Log] Sorted Products are {Vassily Aloe Attack=199, Jose Intensive Care Aloe Body Lotion=216, Wilhelm Aloe Hydration Lotion=365} 
+2021-12-06 02:08:21,466 INFO  [Log] Total products displaying on Page are 6 
+2021-12-06 02:08:21,491 INFO  [Log] Product - Vassily Aloe Attack added in Cart successfully 
+2021-12-06 02:08:21,540 INFO  [Log] Total products displaying on Page are 6 
+2021-12-06 02:08:21,631 INFO  [Log] Sorted Products are {Akiba Amazing SPF-50=222, Anatoly Ultra Sunblock SPF-50=289} 
+2021-12-06 02:08:21,713 INFO  [Log] Product - Akiba Amazing SPF-50 added in Cart successfully 
+2021-12-06 02:08:21,730 INFO  [Log] Sorted Products are {Boris Almond and Honey=128, Mikhail Almond and Talc=353, Alexander Almond & Honey Moisturiser=360} 
+2021-12-06 02:08:21,778 INFO  [Log] Total products displaying on Page are 6 
+2021-12-06 02:08:21,819 INFO  [Log] Product - Boris Almond and Honey added in Cart successfully 
+2021-12-06 02:08:21,963 INFO  [Log] Sorted Products are {Vassily Brilliant SPF-30=116, Vladimir Sun Expert SPF-30=160, Vishy La Shield Sunscreen spf-30=195} 
+2021-12-06 02:08:22,063 INFO  [Log] Product - Vassily Brilliant SPF-30 added in Cart successfully 
+2021-12-06 02:08:24,934 INFO  [Log] Items added in Cart match with the Items in Cart 
+2021-12-06 02:08:25,860 INFO  [Log] Items added in Cart match with the Items in Cart 
+2021-12-06 02:08:32,127 INFO  [Log] User Credit Card information updated successfully 
+2021-12-06 02:08:33,454 INFO  [Log] User Credit Card information updated successfully 
+2021-12-06 02:08:36,758 INFO  [Log] Payment completed and Order placed Successful 
+2021-12-06 02:08:37,760 INFO  [Log] Payment completed and Order placed Successful 
