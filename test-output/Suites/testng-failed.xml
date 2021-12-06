@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="1" configfailurepolicy="continue" guice-stage="DEVELOPMENT" name="Failed suite [Suites]" parallel="classes">
+  <test thread-count="1" name="Tests(failed)" parallel="classes">
+    <groups>
+      <run>
+        <include name="InProgress"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="weatherShopperTest.AssignmentTC1">
+        <methods>
+          <include name="loginHappeo"/>
+        </methods>
+      </class> <!-- weatherShopperTest.AssignmentTC1 -->
+      <class name="weatherShopperTest.AssignmentTC2">
+        <methods>
+          <include name="loginHappeo"/>
+        </methods>
+      </class> <!-- weatherShopperTest.AssignmentTC2 -->
+    </classes>
+  </test> <!-- Tests(failed) -->
+</suite> <!-- Failed suite [Suites] -->
