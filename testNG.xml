@@ -4,8 +4,7 @@
 <suite name="FlinkAutomationSuite">
 	<listeners>
 		<listener class-name="weatherShopperUtil.ExtentReporterNG" />
-	</listeners>
-	
+	</listeners>	
 	<test name="FlinkTestCases" parallel="classes" thread-count="2">
 		<parameter name="Browser" value="Chrome" />
 		<classes>
